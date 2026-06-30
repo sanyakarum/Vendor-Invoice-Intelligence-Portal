@@ -171,8 +171,12 @@ The project includes an interactive Streamlit dashboard with two prediction modu
 This is the portal that helps us generate the predictions efficiently.
 <img width="931" height="383" alt="image" src="https://github.com/user-attachments/assets/2596e314-e9b9-41fd-bedb-3e281e684dbc" />
 
+
+
 The below image is of Freight Cost Prediction. It's objective is to predict freight cost for a vendor invoice using Quantity and Invoice Dollars to support budgeting, forecasting and vendor negotiations.
 <img width="946" height="398" alt="image" src="https://github.com/user-attachments/assets/40ba2a12-dd44-445b-b825-683bc47ec309" />
+
+
 
 Similarly, the below image is of Invoice Mannual Approval Prediction. The main objective is to predict whether a vendor invoice should be flagged or manual approval based on abnormal cost, freight or delivery patterns.
 <img width="934" height="389" alt="image" src="https://github.com/user-attachments/assets/8bfe6124-abd9-408a-a486-59f20d783302" />
