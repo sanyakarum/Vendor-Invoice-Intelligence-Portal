@@ -1,10 +1,10 @@
-# Vendor Invoice Intelligence Portal
+# 📦Vendor Invoice Intelligence Portal
 
 An end-to-end Machine Learning application that predicts freight costs and identifies high-risk vendor invoices using historical procurement and invoice data. The project combines data preprocessing, machine learning, model deployment, and an interactive Streamlit dashboard to support financial decision-making.
 
 ---
 
-## Project Overview
+## 🔎Project Overview
 
 The Vendor Invoice Intelligence Portal is designed to help finance and procurement teams by:
 
@@ -32,7 +32,7 @@ The invoice risk dataset is created by joining these tables using SQL and genera
 
 ---
 
-## Features
+## 📊Features
 
 ### Freight Cost Prediction
 
@@ -90,7 +90,7 @@ Vendor Invoice Intelligence Portal
 
 ### Programming
 
-- Python
+- Python, SQL
 
 ### Libraries
 
@@ -207,7 +207,7 @@ The application predicts whether the invoice should be flagged for manual approv
 
 ---
 
-## How to Run
+## 🚨How to Run
 
 ### Clone the repository
 
@@ -246,7 +246,7 @@ streamlit run app.py
 
 ---
 
-## Results
+## 🚛Results
 
 - Built separate machine learning pipelines for regression and classification.
 - Automated freight cost prediction using historical invoice data.
